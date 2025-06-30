@@ -21,7 +21,7 @@ PayKaro is a robust digital banking system built with Spring Boot that provides 
 - **Backend Testing:** Postman
 
 
-**ER Diagram**
+## ER Diagram
 ![ER Diagram](assets/ERdiagram.png)
 
 ## Prerequisites
@@ -115,18 +115,4 @@ src/main/java/com/paykaro/
 └── service/        # Business logic layer
 ```
 
-## Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, email support@paykaro.com or raise an issue in the repository. 
