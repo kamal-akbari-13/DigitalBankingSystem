@@ -84,7 +84,7 @@ The application will start running at `http://localhost:8080`
 Here are some screenshots of the application in action:
 
 **User Registration**
-![User Registration](assets/register.png)
+![User Registration](assets/register.jpg)
 
 **User Login**
 ![User Login](assets/login.png)
