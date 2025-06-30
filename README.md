@@ -79,6 +79,16 @@ The application will start running at `http://localhost:8080`
 - GET `/api/transactions` - Get transaction history
 - GET `/api/transactions/{id}` - Get specific transaction details
 
+## Screenshots
+
+Here are some screenshots of the application in action:
+
+**User Registration**
+![User Registration](assets/register.png)
+
+**User Login**
+![User Login](assets/login.png)
+
 ## Security
 
 The application implements robust security measures:
