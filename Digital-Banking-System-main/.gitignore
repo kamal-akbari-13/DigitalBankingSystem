@@ -1,1 +1,15 @@
 /.metadata/
+/.idea/
+/.vscode/
+/node_modules/
+/dist/
+/.env
+/.DS_Store
+/.cache/
+/.npm/
+/.settings/
+/.mvn/
+/.project
+/.classpath
+/.factorypath
+/target/
